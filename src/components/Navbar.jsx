@@ -41,7 +41,7 @@ export default function Navbar() {
             </div>
             <span className="font-bold text-lg">
               <span className="gradient-text">Innov</span>
-              <span className="text-white">aite</span>
+              <span className="text-white">erse</span>
             </span>
           </Link>
 
